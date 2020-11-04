@@ -1,0 +1,22 @@
+---
+title: 'Hacia un desarrollo más sostenible'
+subtitle: ''
+summary: ''
+tags: []
+categories: []
+asociacion: []
+date: 2007-01-29 18:04:09
+lastmod:
+---
+
+Queridos vecinos, aquí estamos de nuevo con otro número de esta hoja informativa. En los últimos meses hemos empezado a trabajar en el foro sobre el desarrollo de la Agenda 21 Local para Campo de Criptana. Esta agenda es básicamente un plan de acción y un compromiso de los ciudadanos de Criptana para cambiar nuestro actual modelo de desarrollo por un desarrollo más sostenible. Nuestro ayuntamiento ha asumido el compromiso de crear esta agenda a lo largo del próximo año y necesariamente debe contar con la participación de todos.
+
+Durante la última década, el notable incremento de catástrofes naturales (huracanes, tormentas tropicales, inundaciones, maremotos, sequías, etc) ha provocado que el cambio climático se convierta en uno del los problemas más acuciantes a escala planetaria. La preocupación ha saltado del ámbito científico al ámbito político, y de ahí al ámbito social.  Un aluvión de términos como, calentamiento global, gases de efecto invernadero,  biodiversidad, desertización o desarrollo sostenible,  ha entrado ya a formar parte de nuestro vocabulario.  Incluso a nivel de un pueblo como Criptana ha saltado ya la alarma ante algunas de sus consecuencias más palpables como la sequía de los últimos años.  El último detonante ha sido el devastador informe publicado por el gobierno británico donde se explica con claridad que ya no se trata de si podemos permitirnos el lujo de hacer algo contra el calentamiento global, sino de si podemos permitirnos el de no hacer nada.
+
+La mayoría de los científicos apuntan a la emisión de CO2 como el principal causante del calentamiento global del planeta y a su vez del cambio climático. Sin embargo, el problema es mucho más complejo y transciende a la emisión de gases de efecto invernadero, ya que en la raíz del problema subyace un determinado modelo desarrollo que está provocando grandes desequilibrios medioambientales, económicos y sociales.
+
+En nuestra sociedad del bienestar vivimos como si nuestros recursos fueran inagotables, pero lo cierto es que no lo son, y nuestro exceso de sobreproducción y sobreconsumo está empezando a pasar factura a nuestra madre tierra. La emisión de CO2 a la atmósfera no es sino la consecuencia de la brutal demanda de energía que requiere nuestro modo de vida.  Recientes estudios demuestran que desde el año 1975 se ha superado la capacidad de carga el planeta, es decir que tomamos recursos naturales de la tierra a un ritmo superior al que pueden renovarse. Dichos estudios han llegado a la conclusión de que si todos los habitantes de la tierra viviesen como lo hacemos los ciudadanos de los países más desarrollados, se necesitarían más tres planetas como la Tierra para proporcionarnos recursos materiales y para depositar nuestros desechos. Aunque nos cueste reconocerlo, nuestra madre Tierra no da más de sí, y si actualmente podemos vivir con este nivel de vida, es a costa de privar de el a gran parte de la la población mundial, como ocurre con los países empobrecidos, y también a nuestros hijos y las futuras generaciones.
+
+A pesar de esta dramática introducción no es ni mucho menos nuestra intención sembrar el pesimismo y la frustración, sino provocar una reacción en la ciudadanía, ya que todavía estamos a tiempo de corregir nuestro rumbo. Los políticos y la comunidad internacional ya están empezando a tomar medidas, pero de poco servirán si los ciudadanos no respondemos, ya que para que el cambio sea efectivo debe producirse desde la base. Es imperativo empezar a transformar nuestros hábitos de consumo y sobretodo poner en práctica la regla de las 3 erres: Reducir el consumo, Reutilizar y Reciclar, y además, en ese orden. Y para ello debemos empezar por cambiar la mentalidad que nos han impuesto, donde la felicidad y la realización personal están en función de la adquisición de bienes materiales (chalets, coches de lujo, teléfonos de última generación, ropa de marca, etc.).
+
+La Agenda 21 Local es una gran oportunidad para empezar a caminar por la senda del desarrollo sostenible. No podemos permitirnos el lujo de tomárnoslo a la ligera porque es el futuro de nuestros hijos lo que está en juego. Así que **os animamos a participar activamente en su elaboración, especialmente a las asociaciones, en colaboración con el ayuntamiento y el foro social**.

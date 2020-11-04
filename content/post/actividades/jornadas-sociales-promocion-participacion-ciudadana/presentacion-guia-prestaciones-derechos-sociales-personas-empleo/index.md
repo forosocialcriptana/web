@@ -1,0 +1,30 @@
+---
+title: 'Presentación de la guía de prestaciones y derechos sociales para personas sin empleo'
+subtitle: ''
+summary: ''
+tags: []
+categories: []
+asociacion: []
+date: 2010-06-30 12:53:31
+lastmod:
+---
+
+El pasado sábado 26 el Foro Social de Criptana presentó en una asamblea de personas paradas y afectadas por la crisis, la guía de prestaciones y derechos sociales para personas sin empleo y con excasos recursos económicos.
+
+El objetivo de esta guía es la de poner en manos de las personas paradas una herramienta útil que les permita conocer de una forma clara y accesible cuáles son las prestaciones y derechos sociales a los que pueden acogerse y dónde solicitarlos. 
+
+Lamentablemente, el esfuerzo que hemos acometido para elaborar está Guía no ha sido afrontado por ninguna institución pública, y lo que es más grave, mientras esto no se hace, las personas paradas tienen dificultades para conocer la existencia de unas prestaciones o ayudas a las que tienen derecho.
+Por supuesto, se puede argumentar que las personas paradas pueden acceder a toda clase información a través de las páginas web de las distintas administraciones públicas, o mejor, acudiendo personalmente a sus sedes sociales. Y de hecho, esto es lo que hacen. Deben afrontar entonces un doble problema: en primer lugar, que cada Administración informa únicamente de lo que le compete (y a menudo, exclusivamente del departamento a cuya ventanilla se acude); y en segundo lugar, que antes de ir a un sitio para pedir una prestación o ayuda, primero se debe saber que esta prestación o ayuda existe. Las personas paradas se ven obligadas a participar en verdaderas gincanas que les llevan de una administración a otra para conseguir una información que nadie les ofrece de una sola vez, de una forma clara y accesible. Por ejemplo, todo el mundo sabe que cuando una persona se queda sin empleo, si ha cotizado suficiente, puede pedir una prestación por desempleo de nivel contributivo al Sistema Público de Empleo Estatal, el paro de toda la vida. Pero lo que no sabe todo el mundo, es que si no tiene derecho a esta prestación, quizás pueda cobrar la Renta Básica de Inserción que da la Comunidad Autónoma, o beneficiarse de alguna ayuda municipal de urgente necesidad. Las personas paradas pueden también, en Campo de Criptana, optar a ciertas bonificaciones, como la del recibo del Impuesto de Bienes Inmuebles o el acceso a determinados servicios públicos como el transporte público, la piscina municipal y cursos del Ayuntamiento. No queremos tampoco dar lugar a confusiones y falsas expectativas: las ayudas son exiguas. Pero por pocas que sean, la ciudadanía tiene derecho a hacer uso de ellas.
+
+En resumen, no existe una Oficina Única de Información a la persona desempleada. Un espacio de orientación que ofrezca a la ciudadanía una guía general de todos los recursos, prestaciones y ayudas públicas. Esta es la razón de ser que nos ha llevado a organizar nuestra Oficina de Información de Derechos Sociales y a editar esta Guía. Por supuesto, ni la una ni la otra persigue sustituir el trabajo de información que corresponde dar a los servicios públicos, sino poner en conocimiento de las personas desempleadas la existencia de ciertas ayudas y prestaciones sociales y de las instituciones públicas que tienen la obligación de informar sobre ellas. En este sentido, la información que se encuentra en esta Guía sólo debe interpretarse como una referencia orientativa. En cada caso se señala con claridad el lugar o institución pública donde la persona debe acudir para conseguir toda la información que precise para cada prestación o ayuda particular.
+
+Además, el hecho de no ser una institución pública permite a nuestra Oficina de Información de Derechos Sociales alcanzar un segundo objetivo que la primera, por su propia naturaleza, no puede ofrecer: informar críticamente. No quiere esto decir que la crítica se confunda con la información, sino que a menudo la información, en especial la información pública, necesita de la crítica para no ser confusa. Digámoslo más claramente: ningún funcionario dirá de ninguna ayuda pública que sólo se trata de propaganda. Y sin embargo, esto es lo que nos encontramos con muchas ayudas de la Administración, ayudas que se siguen ofreciendo en costosas campañas publicitarias muchos meses después de que el fondo destinado para ellas se haya agotado.
+
+De todas maneras, no hace falta ser muy mordaz para comprobar hasta dónde alcanzan las promesa de los responsables políticos. Simplemente leyendo lo que ofrece cada Administración a las personas desempleadas basta para hacerse una buena idea de ello. En el caso del Ayuntamiento de Campo de Criptana, hay realmente poco que anotar. No obstante, hemos añadido también otras secciones que recogen algunas ayudas para jóvenes, familias numerosas y de carácter general, pensando en aquellas personas paradas que puedan encontrarse en alguno de estos supuestos y podrían beneficiarse de ellas.
+
+Unas palabras más sobre el Foro Social de Campo de Criptana: somos un espacio de democracia participativa, independiente y plural que agrupa a distintos colectivos y personas a título particular de Campo de Criptana, preocupadas por los problemas de nuestro municipio, entre ellos el paro, y que trabaja por mejorar las condiciones de vida de todo/as los veciono/as. Un espacio donde todas las personas que participan intervienen en todas las decisiones: no elegimos jefes, y nadie decide por los demás.
+Cualquier persona parada que comparta nuestros objetivos puede participar en nuestras reuniones. Sólo tiene que acudir a nuestras reuniones que son todos los primeros viernes de mes a las 21:00 en la Casa de las Asociaciones (despacho Salicor), o visitar nuestra página web: http://www.forosocialcriptana.com, donde encontrará también otras informaciones que le serán igualmente útiles.
+
+¡Muévete contra la crisis! ¡Muévete por tus derechos!
+
+ 

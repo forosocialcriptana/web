@@ -1,5 +1,6 @@
 ---
-title: Posts
+title: Blog
+subtitle: Noticias y novedades
 
 # View.
 #   1 = List
