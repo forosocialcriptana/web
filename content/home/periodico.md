@@ -66,7 +66,3 @@ subtitle = "Últimos números"
  # CSS class.
  css_class = ""
 +++
-
-{{% alert note %}}
-Descubre rápidamente lo que te interesa [filtrando publicaciones](./publication/).
-{{% /alert %}}

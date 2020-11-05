@@ -123,8 +123,8 @@ Si sufres una o diversas de estas situaciones... o otras que nos hemos dejado...
 
 ESTAMOS CAMBIANDO ESTAS SITUACIONES y demostrando que juntas y organizadas SI SE PUEDE recuperar nuestros derechos.
 
-{{% alert note %}}
+
 Hemos habilitado una carpeta con documentación sobre los procedimientos jurídicos más habituales para parar los desahucios.
 
 Para cualquier duda puedes ponerte en contacto con nosotros o bien con Jorge, el abogado de la PAH en Ciudad Real, llamando al teléfono 607851906.
-{{% /alert %}}
+
