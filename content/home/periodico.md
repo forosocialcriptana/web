@@ -67,6 +67,6 @@ subtitle = "Últimos números"
  css_class = ""
 +++
 
-{{% callout note %}}
+{{% alert note %}}
 Descubre rápidamente lo que te interesa [filtrando publicaciones](./publication/).
-{{% /callout %}}
+{{% /alert %}}

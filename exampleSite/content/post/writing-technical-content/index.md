@@ -257,9 +257,9 @@ renders as
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-### Callouts
+### alerts
 
-Academic supports a [shortcode for callouts](https://sourcethemes.com/academic/docs/writing-markdown-latex/#alerts), also referred to as *asides*, *hints*, or *alerts*. By wrapping a paragraph in `{{%/* alert note */%}} ... {{%/* /alert */%}}`, it will render as an aside.
+Academic supports a [shortcode for alerts](https://sourcethemes.com/academic/docs/writing-markdown-latex/#alerts), also referred to as *asides*, *hints*, or *alerts*. By wrapping a paragraph in `{{%/* alert note */%}} ... {{%/* /alert */%}}`, it will render as an aside.
 
 ```markdown
 {{%/* alert note */%}}
