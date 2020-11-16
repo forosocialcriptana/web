@@ -6,7 +6,7 @@ summary: 'Este año la Asociación feminista Las Violeteras de Campo de Criptana
 tags: []
 categories: []
 asociacion: []
-date: 2020-03-07 19:12:38
+date: 2020-03-07
 lastmod:
 ---
 
