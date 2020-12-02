@@ -8,6 +8,8 @@ categories: []
 asociacion: []
 date: 2018-08-03 14:39:00
 lastmod:
+authors: 
+  - violeteras
 ---
 
 Desde su creación, las Violeteras de Campo de Criptana vienen pegando fuerte y exigiendo, desde el movimiento feminista, la visibilización y valoración de la mujer en todos los ámbitos donde el patriarcado la ha invisibilizado, especialmente en el medio rural. 

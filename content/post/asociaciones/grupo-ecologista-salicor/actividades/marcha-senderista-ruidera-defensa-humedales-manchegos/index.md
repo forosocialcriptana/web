@@ -7,6 +7,8 @@ categories: []
 asociacion: []
 date: 2013-02-08 14:32:26
 lastmod:
+authors: 
+  - salicor
 ---
 
 El domingo 17 de febrero, Ecologistas en Acción de Ciudad Real realizará una marcha senderista por las Lagunas de Ruidera en defensa de los humedales manchegos.

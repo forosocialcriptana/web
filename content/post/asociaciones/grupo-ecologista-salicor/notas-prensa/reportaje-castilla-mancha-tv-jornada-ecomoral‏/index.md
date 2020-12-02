@@ -7,6 +7,8 @@ categories: []
 asociacion: []
 date: 2012-10-09 09:02:43
 lastmod:
+authors: 
+  - salicor
 ---
 
 [http://www.rtvcm.es/programas/detail.php?id=7210](http://www.rtvcm.es/programas/detail.php?id=7210)

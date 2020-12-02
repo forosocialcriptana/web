@@ -8,6 +8,8 @@ categories: []
 asociacion: []
 date: 2010-07-30 15:22:56
 lastmod:
+authors: 
+  - grupo-consumo
 ---
 
 <img src="img/IMAG0048.jpg#righ" alt="" width="640">El pasado viernes 30 de julio el grupo de consumo local del Foro Social de Campo de Criptana recibía su primer pedido de la Asociación de Hortelanos de Herencia. 

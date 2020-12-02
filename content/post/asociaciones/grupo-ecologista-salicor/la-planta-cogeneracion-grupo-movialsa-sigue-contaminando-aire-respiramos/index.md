@@ -7,6 +7,8 @@ categories: []
 asociacion: []
 date: 2009-11-20 15:58:00
 lastmod:
+authors: 
+  - salicor
 ---
 
 Como venimos denunciando desde hace tiempo en el observatorio de la sostenibilidad del foro social de Criptana, la planta de cogeneración del grupo MOVIALSA continúa emitiendo a la atmósfera gases altamente contaminantes. El informe de 2009 sobre emisiones de la EPER de la consejería de medio ambiente de la diputación de Ciudad Real (http://pagina.jccm.es/medioambiente/rvca/pdfs/superacion_emisiones_PRTR09.pdf) arroja las siguientes cifras:

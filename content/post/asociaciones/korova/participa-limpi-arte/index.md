@@ -8,6 +8,8 @@ categories: []
 asociacion: []
 date: 2016-04-05 14:53:03
 lastmod:
+authors: 
+  - korova
 ---
 
 Desde la Plataforma  socio‐cultural Korova Criptana estamos preparando LIMPI‐ARTe, una Acción Colectiva que pretende intervenir en nuestro entorno más valioso. Se trata de un evento sencillo pero ambicioso, un evento de compromiso ciudadano con el entorno patrimonial y ecológico que aunará valores artísticos y medioambientales. 

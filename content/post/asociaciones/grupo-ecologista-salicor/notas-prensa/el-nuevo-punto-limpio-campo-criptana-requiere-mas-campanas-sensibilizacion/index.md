@@ -7,6 +7,8 @@ categories: []
 asociacion: []
 date: 2009-12-22 18:31:09
 lastmod:
+authors: 
+  - salicor
 ---
 
 Tras una demora de más de diez años, por fin se encuentra en funcionamiento el Punto Limpio de Campo de Criptana, ubicado junto a la antigua EDAR, situada a 1 Km. de la localidad. Además se ha señalizado el acceso al mismo desde la carretera CM-3105 o carretera de Nieva.

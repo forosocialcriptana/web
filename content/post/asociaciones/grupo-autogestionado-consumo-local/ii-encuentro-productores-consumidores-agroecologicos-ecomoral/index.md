@@ -8,6 +8,8 @@ categories: []
 asociacion: []
 date: 2012-09-29 18:01:00
 lastmod:
+authors: 
+  - grupo-consumo
 ---
 
 Desde el grupo de consumo agroecológico del Foro Social queremos invitaros a participar el próximo sábado 6 de octubre en el II encuentro de consumidores y productores agroecológicos en el huerto de Moral de Calatrava. 

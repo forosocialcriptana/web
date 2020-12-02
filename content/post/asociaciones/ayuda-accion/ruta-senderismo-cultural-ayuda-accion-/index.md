@@ -8,6 +8,8 @@ categories: []
 asociacion: []
 date: 2013-04-17 20:58:34
 lastmod:
+authors: 
+  - ayuda-accion
 ---
 
 El próximo 27 de abril Ayuda en Acción organiza una ruta senderista cultural.  

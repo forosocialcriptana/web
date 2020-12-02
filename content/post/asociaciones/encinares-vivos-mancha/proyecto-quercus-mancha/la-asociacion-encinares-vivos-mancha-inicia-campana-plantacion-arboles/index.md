@@ -8,6 +8,8 @@ categories: []
 asociacion: []
 date: 2010-02-05 16:05:42
 lastmod:
+authors: 
+  - encinares
 ---
 
 La asociación "Encinares vivos de la Mancha" comenzó el pasado domingo día 31 de Enero en Campo de Criptana el proyecto "Quercus Mancha". Se trata de la primera campaña de forestación autóctona en la zona de la Mancha norte, concretamente en el paraje del Chozo del Rey, en el término municipal de dicha población.

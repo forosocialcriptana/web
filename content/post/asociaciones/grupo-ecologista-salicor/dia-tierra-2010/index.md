@@ -7,6 +7,8 @@ categories: []
 asociacion: []
 date: 2010-04-22 11:12:24
 lastmod:
+authors: 
+  - salicor
 ---
 
 El 22 de abril de 1970 más de 20 millones de norteamericanos se movilizaron para aumentar la escasa conciencia sobre la fragilidad del planeta.

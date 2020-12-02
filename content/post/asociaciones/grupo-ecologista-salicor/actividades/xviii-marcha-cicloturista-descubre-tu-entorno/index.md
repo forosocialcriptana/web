@@ -7,6 +7,8 @@ categories: []
 asociacion: []
 date: 2014-06-21 11:29:58
 lastmod:
+authors: 
+  - salicor
 ---
 
 Dentro de las Jornadas Sociales de Promoción de la Participación Ciudadana organizadas por el Foro Social, el grupo Salicor-Ecologistas en Acción ha preparado un año más la marcha cicloturista en bicicleta con el lema "Descubre tu entorno".

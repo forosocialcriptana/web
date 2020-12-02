@@ -8,6 +8,8 @@ categories: []
 asociacion: []
 date: 2016-06-30 12:30:43
 lastmod:
+authors: 
+  - ayuda-accion
 ---
 
 Como cada año el próximo **viernes 1 de julio a las 21:00** Ayuda en Acción organiza la ya tradicional marcha senderista nocturna en el marco de las Jornadas Sociales de Promoción de la Participación Ciudadana del Foro Social.

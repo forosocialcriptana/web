@@ -7,6 +7,8 @@ categories: []
 asociacion: []
 date: 2012-12-02 15:30:12
 lastmod:
+authors: 
+  - salicor
 ---
 
 MADRID, 2 Dic. (EUROPA PRESS) -

@@ -8,6 +8,8 @@ categories: []
 asociacion: []
 date: 2013-11-12 08:23:53
 lastmod:
+authors: 
+  - salicor
 ---
 
 Desde Ecologistas en Acción queremos invitaros a participar en la VII marcha en defensa de los humedales manchegos que recorrerá parte del cauce del río Guadiana desde los Ojos del Guadiana en las inmediaciones del Parque Nacional de las Tablas de Daimiel. 

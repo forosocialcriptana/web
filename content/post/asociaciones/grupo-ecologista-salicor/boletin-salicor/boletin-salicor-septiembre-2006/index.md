@@ -7,5 +7,7 @@ categories: []
 asociacion: []
 date: 2006-09-29 18:12:00
 lastmod:
+authors: 
+  - salicor
 ---
 

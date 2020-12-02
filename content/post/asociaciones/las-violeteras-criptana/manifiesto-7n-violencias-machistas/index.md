@@ -8,6 +8,8 @@ categories: []
 asociacion: []
 date: 2015-11-02 00:18:00
 lastmod:
+authors: 
+  - violeteras
 ---
 
 Desde el año 1995, 1378 mujeres  han sido asesinadas por el terrorismo machista. En lo que llevamos de año se han contabilizado 89 feminicidios y otros asesinatos de mujeres cometidos por hombres: solo en el verano de 2015 han sido asesinadas 37 mujeres y 8 menores a manos de sus parejas, padres o parejas de sus madres. Mujeres y menores sufren violencia patriarcal en múltiples formas. Y esto sólo es la punta del iceberg.

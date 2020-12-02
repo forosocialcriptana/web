@@ -7,6 +7,8 @@ categories: []
 asociacion: []
 date: 2009-06-04 01:19:02
 lastmod:
+authors: 
+  - salicor
 ---
 
 El pasado domingo 31 de mayo, tal y como se había anunciado a través de los medios de comunicación, se llevó a cabo la XIII Marcha Cicloturista que con el acostumbrado lema “Descubre tu entorno” acercó a diversos parajes y enclaves emblemáticos del entorno de Campo de Criptana a un centenar de adultos y niños que acudieron mayoritariamente en familia a la convocatoria.

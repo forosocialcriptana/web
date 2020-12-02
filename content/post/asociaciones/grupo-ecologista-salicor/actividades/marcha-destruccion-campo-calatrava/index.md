@@ -7,6 +7,8 @@ categories: []
 asociacion: []
 date: 2010-05-23 23:43:00
 lastmod:
+authors: 
+  - salicor
 ---
 
 El domingo 23 de mayo alrededor de 100 personas, entre ellas un nutrido grupo de gente de Criptana, realizaron una marcha reivindicativa a lo largo de la vega del Jabalón para llamar la atención a la administración y a la sociedad sobre las graves alteraciones que en los últimos años se están produciendo en el Campo de Calatrava. La marcha partió del puente romano de El Alguacil, avanzando hacia la finca Cañada Real y concluyó en la ermita de la Virgen de los Santos. En el siguiente comunicado extractamos los aspectos más significativos que con este acto se quiso reivindicar.

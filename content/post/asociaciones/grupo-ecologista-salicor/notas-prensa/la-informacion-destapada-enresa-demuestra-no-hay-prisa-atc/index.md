@@ -7,6 +7,8 @@ categories: []
 asociacion: []
 date: 2012-10-31 09:24:10
 lastmod:
+authors: 
+  - salicor
 ---
 
 Nota de Prensa

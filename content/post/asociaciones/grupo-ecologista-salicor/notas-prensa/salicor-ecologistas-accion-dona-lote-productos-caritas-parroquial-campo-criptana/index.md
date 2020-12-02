@@ -7,6 +7,8 @@ categories: []
 asociacion: []
 date: 2013-04-26 16:26:42
 lastmod:
+authors: 
+  - salicor
 ---
 
 Se trata de un lote de productos que iba a ser destruido en su totalidad, pero que "gracias al destino" o "no tanto" (ya que a la empresa le supone más gasto dicha destrucción que repartirlo de forma gratuita), ha hecho posible que se beneficien alrededor de 30 familias necesitadas de Campo de Criptana.

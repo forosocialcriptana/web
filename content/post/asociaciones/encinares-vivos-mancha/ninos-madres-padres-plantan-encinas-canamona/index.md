@@ -8,6 +8,8 @@ categories: []
 asociacion: []
 date: 2017-03-14 12:55:54
 lastmod:
+authors: 
+  - encinares
 ---
 
 El pasado domingo 12 de marzo las familias de Campo de Criptana tuvieron la oportunidad de poner su plantón en una parcela de “la Cañamona”, dentro del programa anual “Quercus Mancha” organizado por las AMPAs y grupos medioambientalistas de la localidad, como Encinares Vivos de la Mancha, Salicor-Ecologistas en Acción y Foro Social. 

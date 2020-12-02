@@ -8,6 +8,8 @@ categories: []
 asociacion: []
 date: 2012-01-17 09:47:00
 lastmod:
+authors: 
+  - korova
 ---
 
 La idea del Proyecto Korova surge al principio del verano de este año cuando algunos de nosotros nos dimos cuenta que necesitábamos algo más que fines de semana de botellón y borrachera, que necesitábamos una oferta de ocio que realmente llenara nuestras aspiraciones personales y confundiera nuestro tiempo libre con nuestras aficiones. Campo de Criptana siempre fue un pueblo inquieto en lo cultural pero esta vez nuestro pueblo no cumplía nuestras expectativas por tener una oferta cultural repetitiva y anquilosada en el pasado. Nuestras aficiones, el cine, el rock, la música electrónica, el arte contemporáneo, el cómic..., no tenían hueco en el panorama cultural de nuestro pueblo y eso hacía que nuestros momentos de ocio no fuesen sinónimos de diversión. 

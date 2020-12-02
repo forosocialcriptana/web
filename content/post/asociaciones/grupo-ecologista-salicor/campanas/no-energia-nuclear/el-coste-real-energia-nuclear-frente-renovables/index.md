@@ -9,6 +9,8 @@ categories: []
 asociacion: []
 date: 2011-05-06 11:03:13
 lastmod:
+authors: 
+  - salicor
 ---
 
 Es un intento de aclarar dudas y arrojar un poco de luz, desde un aspecto técnico y económico (el que han estado estos días pidiendo nuestros políticos), en un momento en el que muchas voces nos dicen que tenemos que construir nuevas centrales nucleares y aceptar sus riesgos como única manera de mantener el modelo de vida actual, en el aspecto de consumo energético.

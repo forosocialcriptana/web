@@ -7,6 +7,8 @@ categories: []
 asociacion: []
 date: 2015-05-12 11:22:29
 lastmod:
+authors: 
+  - salicor
 ---
 
 Ecologistas en Acción convoca una marcha senderista el próximo domingo 17 de mayo dentro de los actos de celebración del 20 aniversario de la creación del Parque Nacional de Cabañeros.

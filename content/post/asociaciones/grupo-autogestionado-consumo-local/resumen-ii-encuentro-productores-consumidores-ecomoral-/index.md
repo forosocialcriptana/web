@@ -8,6 +8,8 @@ categories: []
 asociacion: []
 date: 2012-10-09 10:00:56
 lastmod:
+authors: 
+  - grupo-consumo
 ---
 
 El pasado sábado 6 de octubre se celebraba en Moral de Calatrava el II Encuentro de productores y consumidores en ECOMORAL. El objetivo del encuentro era acercar a productores y consumidores para intercambiar sus experiencias y problemáticas y, en la medida de lo posible, buscar soluciones.

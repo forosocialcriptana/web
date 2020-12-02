@@ -8,6 +8,8 @@ categories: []
 asociacion: []
 date: 2013-02-24 13:24:13
 lastmod:
+authors: 
+  - encinares
 ---
 
 La Asociación Encinares vivos de la Mancha realizó el pasado sábado 16 de febrero la presentación en sociedad del libro y la exposición fotográfica “En busca del agua perdida..... en un lugar de La Mancha”, realizado por José María Sánchez y Daniel Mínguez. 

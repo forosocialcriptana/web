@@ -7,6 +7,8 @@ categories: []
 asociacion: []
 date: 2007-04-16 15:44:15
 lastmod:
+authors: 
+  - salicor
 ---
 
 El pasado 15 de abril varios miembros del Foro Social de Criptana participaron en una marcha de denuncia del modelo especulador urbanístico que está proliferando en Castilla-La Mancha, al igual que en gran parte del territorio español. 

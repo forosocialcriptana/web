@@ -7,6 +7,8 @@ categories: []
 asociacion: []
 date: 2012-10-29 13:49:34
 lastmod:
+authors: 
+  - salicor
 ---
 
 ¡¡Hola a todos!!

@@ -7,6 +7,8 @@ categories: []
 asociacion: []
 date: 2009-11-27 14:42:24
 lastmod:
+authors: 
+  - salicor
 ---
 
 Desde 1992 se celebra los últimos viernes de noviembre “el Día Sin Compras”.Por medio de actividades lúdicas y de información, pretende concienciar acerca de las consecuencias del modelo de sobreproducción y sobreconsumo de los países ricos.El cambio climático, el aumento del hambre (1.200 millones de seres humanos), o la crisis económica, nos recuerdan que perpetuar el crecimiento económico infinito, además de ser imposible, es el camino más corto y seguro a la hecatombe.

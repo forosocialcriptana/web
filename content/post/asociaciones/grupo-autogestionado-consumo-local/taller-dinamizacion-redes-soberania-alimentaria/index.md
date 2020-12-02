@@ -8,6 +8,8 @@ categories: []
 asociacion: []
 date: 2012-02-23 18:21:37
 lastmod:
+authors: 
+  - grupo-consumo
 ---
 
 El próximo sábado 3 de marzo Sodepaz, en colaboración con el Foro Social de Campo de Criptana, realizará un taller para facilitar la creación de redes de soberanía alimentaria en el ámbito de Castilla-La Mancha.

@@ -8,6 +8,8 @@ categories: []
 asociacion: []
 date: 2012-01-13 10:44:31
 lastmod:
+authors: 
+  - encinares
 ---
 
 El próximo domingo 15 de enero comienza la III campaña de reforestación «Quercus Mancha». La cita es a las 10 de la mañana en los pozos del cementerio, para ir al paraje de la Perojila que ya empezó a reforestarse el año pasado.

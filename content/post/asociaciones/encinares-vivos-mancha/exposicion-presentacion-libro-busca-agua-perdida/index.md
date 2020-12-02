@@ -8,6 +8,8 @@ categories: []
 asociacion: []
 date: 2013-06-15 19:20:00
 lastmod:
+authors: 
+  - encinares
 ---
 
 <img src="img/cartel_presentacion_libro_en_busca_del_agua_perdida.jpg#cente" alt="" width="600">

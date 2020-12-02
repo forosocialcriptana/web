@@ -8,6 +8,8 @@ categories: []
 asociacion: []
 date: 2020-03-07
 lastmod:
+authors: 
+  - violeteras
 ---
 
 <img src="img/mandiles8m.jpg#righ" alt="" width="400">Este año la Asociación feminista Las Violeteras de Campo de Criptana no convocará concentración en nuestra localidad.

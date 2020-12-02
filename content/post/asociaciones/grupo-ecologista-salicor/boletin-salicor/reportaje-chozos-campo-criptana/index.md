@@ -7,6 +7,8 @@ categories: []
 asociacion: []
 date: 2012-10-11 15:51:57
 lastmod:
+authors: 
+  - salicor
 ---
 
 ***"Las construcciones rurales en Campo de Criptana"***

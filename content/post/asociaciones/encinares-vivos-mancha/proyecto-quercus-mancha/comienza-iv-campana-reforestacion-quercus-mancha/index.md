@@ -8,6 +8,8 @@ categories: []
 asociacion: []
 date: 2012-12-14 13:26:30
 lastmod:
+authors: 
+  - encinares
 ---
 
 Como los últimos años, con la llegada del invierno la asociación Encinares Vivos de la Mancha comienza su campaña de reforestación y sensibilización entre la población manchega. 

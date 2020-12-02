@@ -7,6 +7,8 @@ categories: []
 asociacion: []
 date: 2013-06-06 16:12:17
 lastmod:
+authors: 
+  - salicor
 ---
 
 Con motivo del día mundial del medio ambiente, Ecologistas en Acción de Ciudad Real ha presentado en la facultad de letras de la Universidad de Castilla-La Mancha un catálogo de agresiones ambientales de la provincia. El grupo Salicor ha registrado en ese catálogo las principales agresiones ambientales de Campo de Criptana. 

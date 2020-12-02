@@ -7,6 +7,8 @@ categories: []
 asociacion: []
 date: 2008-05-30 13:00:31
 lastmod:
+authors: 
+  - salicor
 ---
 
 Reciente mente hemos recibido y estudiado la consulta que le ha sido remitida por la Delegación Provincial con motivo del inicio de procedimiento de evaluación de impacto ambiental expediente CR-5638/08 sobre AMPLIACIÓN DE CANTERA EL SALOBRAL en Campo de

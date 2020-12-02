@@ -8,6 +8,8 @@ categories: []
 asociacion: []
 date: 2013-06-17 23:05:00
 lastmod:
+authors: 
+  - grupo-consumo
 ---
 
 El próximo 22 de junio, el Grupo de Consumo del Foro Social organiza el I Mercadillo Agroecológico de Campo de Criptana, que se realizará en los jardines del Pozo Hondo.

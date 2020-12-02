@@ -8,6 +8,8 @@ categories: []
 asociacion: []
 date: 2013-05-20 15:56:43
 lastmod:
+authors: 
+  - grupo-consumo
 ---
 
 El próximo sábado 25 de mayo tendrá lugar el III Ecuentro de productores y consumidores agroecológicos en Moral de Calatrava. 

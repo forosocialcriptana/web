@@ -52,6 +52,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/fscriptana
+- icon: facebook
+  icon_pack: fab
+  link: https://es-es.facebook.com/forosocialcriptana
 - icon: github
   icon_pack: fab
   link: https://github.com/forosocialcriptana

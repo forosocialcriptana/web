@@ -7,6 +7,8 @@ categories: []
 asociacion: []
 date: 2006-10-14 18:17:00
 lastmod:
+authors: 
+  - salicor
 ---
 
 En relación a las declaraciones efectuadas por la Alcaldía de Campo de Criptana en días pasados tanto en la televisión local como en diversos medios acerca de los contactos y propuestas sobre la remodelación de la zona del Pozohondo, desde Salicor-Ecologistas en Acción queremos confirmar que, efectivamente, esos contactos con nuestro colectivo, se han producido y que además, el Ayuntamiento se ha mostrado muy receptivo en puntos tan vitales como el de la planta de la actuación, con cuya solución final de rotonda global  coincidimos plenamente al suponer una ampliación potencial de la zona verde y facilitar el uso peatonal y estancial del entorno, a la vez que intenta solucionar los actuales problemas de tráfico.

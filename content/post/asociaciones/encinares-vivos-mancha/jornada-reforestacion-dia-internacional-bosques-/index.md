@@ -8,6 +8,8 @@ categories: []
 asociacion: []
 date: 2015-03-20 13:06:50
 lastmod:
+authors: 
+  - encinares
 ---
 
 Los bosques y los árboles nos suministran alimentos y nos protegen de manera inestimable, proporcionan el aire puro que respiramos y el agua limpia que bebemos, hospedan y salvaguardan la biodiversidad del planeta y actúan como nuestra defensa natural contra el cambio climático. La vida en la tierra es posible y sostenible gracias a los bosques y árboles.

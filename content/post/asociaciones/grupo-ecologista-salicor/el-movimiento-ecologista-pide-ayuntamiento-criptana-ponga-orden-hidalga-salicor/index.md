@@ -7,6 +7,8 @@ categories: []
 asociacion: []
 date: 2006-10-27 18:20:00
 lastmod:
+authors: 
+  - salicor
 ---
 
 Quince años de lucha ecologista y ciudadana y de esfuerzos de la Administración Regional que han conseguido hacer de la laguna de Salicor y su entorno una reserva natural pueden quedarse en nada si desde el Ayuntamiento de Campo de Criptana, como administración más cercana y con plenos poderes en la ordenación del territorio local no se toman las medidas oportunas.

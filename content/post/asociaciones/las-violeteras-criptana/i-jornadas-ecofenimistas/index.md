@@ -8,6 +8,8 @@ categories: []
 asociacion: []
 date: 2017-05-25 11:47:50
 lastmod:
+authors: 
+  - violeteras
 ---
 
 El Foro Social de Campo de Criptana en colaboración con Ecologistas en Acción y las asociaciones feministas Asamblea 7N de Alcázar de San Juan y las Violeteras de Campo de Criptana os invitamos a participar en las primeras jornadas Ecofenimistas que celebraremos el próximo **sábado 3 de junio** con el siguiente programa:

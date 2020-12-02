@@ -7,6 +7,8 @@ categories: []
 asociacion: []
 date: 2006-10-22 18:32:00
 lastmod:
+authors: 
+  - salicor
 ---
 
 El pasado domingo 23 de octubre, tal y como estaba previsto, se llevó a cabo la XI Marcha Cicloturista que con el acostumbrado lema “Descubre tu entorno” acercó a diversos parajes y enclaves emblemáticos del entorno de Campo de Criptana a más de 60 adultos y niños que acudieron mayoritariamente en familia a la convocatoria.

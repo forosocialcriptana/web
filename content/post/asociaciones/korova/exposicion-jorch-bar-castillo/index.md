@@ -8,6 +8,8 @@ categories: []
 asociacion: []
 date: 2013-03-04 22:56:04
 lastmod:
+authors: 
+  - korova
 ---
 
 Próximamente habrá una Expansión en la Sala de Exposiciones de la Casa de Cultura de Campo de Criptana.

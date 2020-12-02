@@ -9,6 +9,8 @@ categories: []
 asociacion: []
 date: 2017-05-02 20:50:00
 lastmod:
+authors: 
+  - grupo-consumo
 ---
 
 Tras el gran éxito de las anteriores ediciones de este mercadillo, los organizadores no

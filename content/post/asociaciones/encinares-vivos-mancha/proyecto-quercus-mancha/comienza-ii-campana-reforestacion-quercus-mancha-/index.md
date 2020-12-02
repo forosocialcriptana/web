@@ -8,6 +8,8 @@ categories: []
 asociacion: []
 date: 2011-02-22 08:33:00
 lastmod:
+authors: 
+  - encinares
 ---
 
 El próximo domingo 27 de febrero dará comienzo la segunda campaña de reforestación "Quercus Mancha" organizada por la asociación Encinares Vivos de la Mancha y con la colaboración del Foro Social de Campo de Criptana, el Grupo Salicor de Ecologistas en Acción y Ayuda en Acción. 

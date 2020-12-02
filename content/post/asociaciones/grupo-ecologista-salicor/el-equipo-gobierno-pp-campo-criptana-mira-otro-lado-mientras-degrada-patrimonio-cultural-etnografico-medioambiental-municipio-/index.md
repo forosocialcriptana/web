@@ -7,6 +7,8 @@ categories: []
 asociacion: []
 date: 2010-11-17 08:24:42
 lastmod:
+authors: 
+  - salicor
 ---
 
 El grupo ecologista Salicor de Campo de Criptana denuncia públicamente la permisividad del Equipo de Gobierno de Santiago Lucas-Torres en cuanto a la protección de nuestro patrimonio etnográfico y medioambiental. En estos tiempos en los que el desarrollo sostenible y la protección de nuestro patrimonio está más de moda que nunca, el equipo de gobierno de Campo de Criptana está fomentando la destrucción, el olvido y el desinterés  por proteger nuestro entorno.

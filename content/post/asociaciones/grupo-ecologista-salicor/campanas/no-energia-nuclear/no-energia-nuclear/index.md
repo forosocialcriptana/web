@@ -7,6 +7,8 @@ categories: []
 asociacion: []
 date: 2011-03-15 19:22:00
 lastmod:
+authors: 
+  - salicor
 ---
 
 La reciente catástrofe de Fukusima pone de manifiesto que la tecnología nuclear está todavía lejos de ser segura para las poblaciones y el medio ambiente, por lo que el grupo ecologista Salicor y el Foro Social manifiestan su más firme rechazo a las centrales y a los almacenes de residuos nucleares.

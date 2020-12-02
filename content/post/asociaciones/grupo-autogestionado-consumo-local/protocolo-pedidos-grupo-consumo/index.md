@@ -8,6 +8,8 @@ categories: []
 asociacion: []
 date: 2013-05-28 00:00:00
 lastmod:
+authors: 
+  - grupo-consumo
 ---
 
 Actualmente el grupo de consumo recibe frutas y verduras de [Ecomoral](https://www.facebook.com/ecomoral.huertaecologica), una huerta agroecológica familiar gestionada por nuestras dos hortelanas Ana y Marivi.

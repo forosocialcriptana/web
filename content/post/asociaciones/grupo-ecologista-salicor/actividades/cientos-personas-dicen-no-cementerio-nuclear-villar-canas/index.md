@@ -11,6 +11,8 @@ categories: []
 asociacion: []
 date: 2013-05-16 06:57:39
 lastmod:
+authors: 
+  - salicor
 ---
 
 A pesar del tiempo revuelto, varios cientos de personas acudieron a la convocatoria de la Plataforma contra el cementerio nuclear en Villar de Cañas para decir NO al cementerio nuclear. La marcha pasó los terrenos donde pretenden construir el cementerio y los asistentes pudieron comprobar los riesgos del lugar, así como que aún no hay ningún signo de actividad de construcción en la zona. Hacia el medio día, la marcha concluyó en la plaza de Villar de Cañas en un ambiente pacífico y festivo, donde se leyó un manifiesto, exigiendo a las autoridades que abandonen el proyecto y pidiendo a la población de Villar de Cañas que miren por el futuro de sus hijos y no se dejen engañar. 

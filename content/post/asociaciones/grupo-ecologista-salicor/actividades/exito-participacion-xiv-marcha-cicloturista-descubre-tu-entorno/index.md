@@ -7,6 +7,8 @@ categories: []
 asociacion: []
 date: 2010-06-09 17:09:00
 lastmod:
+authors: 
+  - salicor
 ---
 
 El pasado domingo 6 de junio dieron comienzo las Jornadas Sociales y de Promoción de la Participación Ciudadana del Foro Social con la XIV Marcha cicloturista "Descubre tu entorno" organizada por Ecologistas en Acción. La marcha acercó a diversos parajes y enclaves emblemáticos del entorno de Campo de Criptana a un centenar de adultos y niños que acudieron mayoritariamente en familia a la convocatoria.

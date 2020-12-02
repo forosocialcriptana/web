@@ -8,6 +8,8 @@ categories: []
 asociacion: []
 date: 2016-06-16 21:13:34
 lastmod:
+authors: 
+  - violeteras
 ---
 
 Desde Las Violeteras queremos invitaros a nuestra primera actividad dentro de las XII Jornadas Sociales y de Promoción de la Participación Ciudadana que organiza el Foro Social. 

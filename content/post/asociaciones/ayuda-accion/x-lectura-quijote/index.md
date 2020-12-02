@@ -8,6 +8,8 @@ categories: []
 asociacion: []
 date: 2007-05-07 15:52:31
 lastmod:
+authors: 
+  - ayuda-accion
 ---
 
 Como todos los años por estas fechas, el pasado domingo 29 de abril se celebró la X lectura ininterrumpida de El Quijote, organizada por Ayuda en Acción. El objetivo de este acto es, por un lado, fomentar la lectura, especialmente entre los más jóvenes, y por otro, sensibilizar y recaudar fondos para financiar proyectos de desarrollo en los que trabaja Ayuda en Acción.

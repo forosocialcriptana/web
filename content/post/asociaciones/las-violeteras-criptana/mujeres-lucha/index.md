@@ -8,6 +8,8 @@ categories: []
 asociacion: []
 date: 2017-03-07 08:41:14
 lastmod:
+authors: 
+  - violeteras
 ---
 
 Con motivo del día internacional de las mujeres trabajadoras los colectivos feministas de Campo de Criptana y Alcázar de San Juan han preparado una representación reinvindicativa festiva en la que se interpretará a mujeres en la historia que han luchado por las conquistas sociales y laborales de la mujer. 

@@ -8,6 +8,8 @@ categories: []
 asociacion: []
 date: 2014-05-06 17:38:52
 lastmod:
+authors: 
+  - grupo-consumo
 ---
 
 <img src="img/_mercadillo_agroecologico_2013_400.jpg#righ" alt="" width="400">Tras el gran éxito de la primera edición de este mercadillo, los miembros del Foro Social no han dudado en continuar con esta iniciativa que pretende promocionar los productos ecológicos de nuestra región y promover el consumo responsable, ecológico y transformador. 

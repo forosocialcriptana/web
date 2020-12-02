@@ -8,6 +8,8 @@ categories: []
 asociacion: []
 date: 2009-01-22 19:00:00
 lastmod:
+authors: 
+  - encinares
 ---
 
 Queremos informaros acerca de un proyecto ilusionante que se va a poner en marcha a partir de enero del próximo año a iniciativa de la Asociación Encinares Vivos de la Mancha, Grupo Salicor, Foro Social y Ayuda en Acción, pero que está abierto a la participación de todas las asociaciones locales que se quieran integrar.

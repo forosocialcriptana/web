@@ -7,6 +7,8 @@ categories: []
 asociacion: []
 date: 2010-10-25 19:31:00
 lastmod:
+authors: 
+  - salicor
 ---
 
 El presente curso cubrirá 32 horas docentes totales, que se impartirán a lo largo de dos fines de semana: del 5 al 7 y del 19 al 21 de noviembre de 2010. El curso tendrá carácter presencial, y las clases se impartirán en la EFA-Molino de Viento, en Campo de Criptana, Ciudad Real. El curso tendrá un enfoque práctico, y se prevé la visita de al menos dos fincas donde se realice olivicultura ecológica, así como de una almazara ecológica certificada. Se proyectarán audiovisuales, y se realizarán sesiones en campo con un fuerte carácter experimental.

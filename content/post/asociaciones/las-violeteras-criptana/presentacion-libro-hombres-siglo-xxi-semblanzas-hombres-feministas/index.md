@@ -8,6 +8,8 @@ categories: []
 asociacion: []
 date: 2016-03-08 08:39:18
 lastmod:
+authors: 
+  - violeteras
 ---
 
 Nuevamente desde las Violeteras os invitamos a un acto donde presentaremos la obra *Hombres para el siglo XXI: Semblanzas de hombres feministas*, coordinada por Julián Fernández de Quero. La actividad tendrá lugar en el Salón de Actos de la Casa de las Asociaciones de Campo de Criptana, el **viernes 11 de marzo a las 20:00**.

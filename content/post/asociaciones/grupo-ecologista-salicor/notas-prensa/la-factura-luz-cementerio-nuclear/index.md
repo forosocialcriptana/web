@@ -7,6 +7,8 @@ categories: []
 asociacion: []
 date: 2014-01-21 13:39:54
 lastmod:
+authors: 
+  - salicor
 ---
 
 La energía nuclear en España, con fines militares en sus orígenes[1], ha sido la que más dinero público ha recibido. Hoy, completamente amortizada, genera enormes beneficios netos a las compañías eléctricas, pero debido al tipo de subasta eléctrica no contribuye en nada al descenso del precio del kilovatio[2]. El 100 % del uranio es importado[3], y los residuos generados – cancerígenos durante decenas de miles de años- no tienen solución.

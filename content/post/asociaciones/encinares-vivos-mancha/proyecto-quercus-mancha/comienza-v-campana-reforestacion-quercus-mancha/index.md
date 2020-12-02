@@ -8,6 +8,8 @@ categories: []
 asociacion: []
 date: 2014-02-05 11:57:14
 lastmod:
+authors: 
+  - encinares
 ---
 
 La asociación “Encinares Vivos de La Mancha”, junto con el Grupo “Salicor” de Ecologistas en Acción, El Foro Social, y AMPAS de los centros públicos de educación Infantil y Primaria de Campo de Criptana iniciarán el próximo domingo 2 de Febrero, con motivo del día mundial de los Humedales, la 5ª CAMPAÑA  DE  FORESTACIÓN con plantas autóctonas en un entorno situado al final del camino de los Siete Molinos, en el término municipal de Alcázar de San Juan. Este paraje es una zona de desagüe natural de la sierra de Campo de Criptana por donde han circulado arroyos que antaño ocasionaban  lagunas de encharcamiento.

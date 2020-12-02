@@ -8,6 +8,8 @@ categories: []
 asociacion: []
 date: 2011-09-16 12:32:31
 lastmod:
+authors: 
+  - korova
 ---
 
 El Proyecto Korova comienza su andadura. El viernes día 23 de septiembre en el salón de actos de la casa de las asociaciones, a las 20:30 de la tarde, se realizará una asamblea donde conoceremos más de este proyecto y donde daremos los primeros pasos como colectivo.

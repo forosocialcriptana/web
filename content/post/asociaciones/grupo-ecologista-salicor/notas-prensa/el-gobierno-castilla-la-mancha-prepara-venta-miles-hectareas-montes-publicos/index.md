@@ -7,6 +7,8 @@ categories: []
 asociacion: []
 date: 2013-02-04 15:55:19
 lastmod:
+authors: 
+  - salicor
 ---
 
 Ecologistas en Acción a lo largo de las últimas semanas ha ido recabando datos de la iniciativa de la Junta por diversas fuentes. Finalmente, ésta ha sido confirmada por el Director General de Montes y Espacios Naturales en una reunión celebrado hoy mismo.La actuación se enmarca dentro de un plan de enajenación de bienes de titularidad pública que ha impulsado la Consejería de Hacienda y en el que está colaborando la Consejería de Agricultura. El plan ya está avanzado y ha dado sus primeros pasos. Se ha elaborado una lista inicial de montes susceptibles de venta que se han seleccionado con criterios de ausencia de cargas, disponibilidad para desarrollar explotaciones forestales y cinegéticas y de dotación de infraestructuras que los puedan hacer más atractivos a posibles compradores.

@@ -10,6 +10,8 @@ categories: []
 asociacion: []
 date: 2016-06-16 18:02:02
 lastmod:
+authors: 
+  - salicor
 ---
 
 Un año, más, y ya es el XX, desde Salicor, os invitamos a descubrir en bici el entorno de en el que vivimos el próximo sábado 18 de junio a las 10:00. 

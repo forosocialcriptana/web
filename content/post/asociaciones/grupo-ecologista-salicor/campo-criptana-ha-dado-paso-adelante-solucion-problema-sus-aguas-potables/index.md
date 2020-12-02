@@ -7,6 +7,8 @@ categories: []
 asociacion: []
 date: 2006-11-27 18:29:00
 lastmod:
+authors: 
+  - salicor
 ---
 
 Así puede desprenderse de la información que ha recibido la organización ecologista en la última reunión mantenida con la concejalía de Medio Ambiente de la localidad y de los análisis del agua de red realizados de forma independiente por sus propios medios.

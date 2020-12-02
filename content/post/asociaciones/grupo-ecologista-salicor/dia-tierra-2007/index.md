@@ -7,6 +7,8 @@ categories: []
 asociacion: []
 date: 2007-04-24 09:17:42
 lastmod:
+authors: 
+  - salicor
 ---
 
 <img src="img/cambio_climatico.jpg#righ" alt="" width="240">El pasado 21 de abril se celebró en todo el mundo el Día de la Tierra. En estos momentos en que la principial preocupación internacional medioambiental es el Cambio Climático, la mayor parte de las acciones se han centrado en este tema. 

@@ -7,6 +7,8 @@ categories: []
 asociacion: []
 date: 2006-05-08 13:33:03
 lastmod:
+authors: 
+  - salicor
 ---
 
 Este grupo inició su andadura partiendo de una premisa fundamental y lógica, basada en los acontecimientos y hechos que hasta el momento van ocurriendo.

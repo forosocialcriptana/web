@@ -7,6 +7,8 @@ categories: []
 asociacion: []
 date: 2015-12-29 11:08:53
 lastmod:
+authors: 
+  - salicor
 ---
 
 Recordamos con el turrón los avances, retrocesos, hitos y calamidades que el 2015 ha tenido para el medio ambiente y el papel que Ecologistas en Acción ha mantenido para vertebrar luchas, reivindicaciones y alianzas en todo el Estado

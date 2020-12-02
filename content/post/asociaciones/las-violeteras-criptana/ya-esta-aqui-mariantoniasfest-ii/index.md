@@ -8,6 +8,8 @@ categories: []
 asociacion: []
 date: 2019-07-11 11:46:41
 lastmod:
+authors: 
+  - violeteras
 ---
 
 Este verano volveremos a disfrutar de festival de música feminista más refrescante del verano. Nuestras compas Las Violeteras están ya trabajando en lo que será la segunda edición del MariantoniasFest, un festival de música alternativa y feminista que pretende convertirse en un referente en nuestra región. 

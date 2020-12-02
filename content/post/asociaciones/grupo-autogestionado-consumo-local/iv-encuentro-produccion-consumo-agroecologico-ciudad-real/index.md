@@ -8,6 +8,8 @@ categories: []
 asociacion: []
 date: 2013-10-16 19:33:22
 lastmod:
+authors: 
+  - grupo-consumo
 ---
 
 El próximo sábado 19 se celebra el IV encuentro de grupos de consumo y de producción de Ciudad Real en la huerta de nuestras hortelanas favoritas en Moral de Calatrava. 

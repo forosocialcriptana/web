@@ -8,6 +8,8 @@ categories: []
 asociacion: []
 date: 2012-01-25 18:25:05
 lastmod:
+authors: 
+  - grupo-consumo
 ---
 
 <img src="img/consume_alimentos_agroecologicos.jpg#righ" alt="" width="307">¿Te has preguntado alguna vez, QUÉ IMPORTANCIA TIENE LA ALIMENTACIÓN EN TU VIDA?

@@ -7,6 +7,8 @@ categories: []
 asociacion: []
 date: 2013-03-14 19:35:34
 lastmod:
+authors: 
+  - salicor
 ---
 
 La Asamblea de Naciones Unidas acaba de declarar el 21 de marzo como el día internacional de los bosques, y para celebrarlo, Ecologistas en Acción de Ciudad Real realizará una plantación el sábado 16 de marzo en Campo de Criptana. 

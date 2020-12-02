@@ -7,6 +7,8 @@ categories: []
 asociacion: []
 date: 2012-12-31 14:07:00
 lastmod:
+authors: 
+  - salicor
 ---
 
 CUENCA, 30 Dic. (EUROPA PRESS) -

@@ -8,6 +8,8 @@ categories: []
 asociacion: []
 date: 2013-04-26 14:12:04
 lastmod:
+authors: 
+  - encinares
 ---
 
 En días pasados el grupo Salicor Ecologistas en Acción, y la Asociación Encinares vivos de la Mancha pusieron el broche final a la tercera campaña de reforestación “Quercus Mancha,” volviendo a salir al campo con la participación de diferentes grupos de la localidad como los Scouts y las Ampas de distintos colegios de la localidad, con la participación de un importante grupo de niños que junto a sus padres, aprendieron una clase fundamental, como es la integración de los humanos con la naturaleza y los espacios en los que debemos de tener un comportamiento muy respetuoso con el entorno, valorando la parte positiva y ya olvidada de los beneficios que aporta el ecosistema en nuestra vida diaria.

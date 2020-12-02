@@ -8,6 +8,8 @@ categories: []
 asociacion: []
 date: 2012-06-24 02:15:54
 lastmod:
+authors: 
+  - korova
 ---
 
 El Proyecto Korova  tiene una agenda veraniega de lo más apretada. La iniciativa de “Las Tardes de Korova” son una serie de actividades que nuestro colectivo pondrá en funcionamiento desde mediados del mes de Junio hasta finales del mes de Agosto. El objetivo es ofrecer a los jóvenes de Campo de Criptana alternativas de ocio sobre todo las tardes de los Sábados aunque muchas de nuestras propuestas se desarrollarán bien adentrada la noche.

@@ -8,6 +8,8 @@ categories: []
 asociacion: []
 date: 2017-05-10 20:11:34
 lastmod:
+authors: 
+  - grupo-consumo
 ---
 
 El pasado sábado aconteció en la Plaza Mayor de Campo de Criptana el III Mercadillo Agroecológico. Eran claros los motivos a los que llevaba la organización de tal evento, por un lado es una forma de acercarse a los productos y alimentos sanos y saludables, elaborados o cultivados en procesos que priorizan y tienen en cuenta la salud de las personas y el equilibrio con el medio ambiente. Se fomenta los productos provenientes de semillas autóctonas y locales, muchas de ellas desaparecidas, apostando por productos de temporada cercanos y naturales.

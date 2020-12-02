@@ -7,6 +7,8 @@ categories: []
 asociacion: []
 date: 2009-10-10 20:07:00
 lastmod:
+authors: 
+  - salicor
 ---
 
 La incapacidad del gobierno local para sacar adelante en Pleno la Ordenanza de Árboles Singulares el pasado verano, mientras que, a la vez, demostraba una eficacia contundente en  convertir la zona de antiguo huerto monacal del callejón del Convento en un aparcamiento,  arrasando cipreses y moreras ha sido la gota que ha colmado el vaso de la paciencia del colectivo ecologista local. Éste ha responsabilizado de forma directa o subsidiaria al alcalde y su equipo de toda una serie de actuaciones nefastas ante las cuales es imposible callarse o mirar hacia otro lado, que van a tener una repercusión enorme e irreversible para el pueblo y el patrimonio cultural y ambiental que vamos a dejar a nuestros hijos y que dicho colectivo considera necesario poner al descubierto: 

@@ -7,6 +7,8 @@ categories: []
 asociacion: []
 date: 2011-03-30 18:45:28
 lastmod:
+authors: 
+  - salicor
 ---
 
 Hace ahora cuatro años, desde Salicor, se le imploró al alcalde, se le suplicó; se gestionó con esfuerzo ante la Confederación Hidrográfica del Guadiana un proyecto tras el que ésta emitió un extenso informe que concluía con la posibilidad de costear al 100% por su parte una inversión de un millón de euros en restaurar todas las edificaciones y arboledas del entorno del nacimiento del arroyo de San Marcos, es decir, de la Huerta de Treviño, de su casa hortelana y de su palomar. El Sr. Alcalde únicamente tenía que hacer una sola y pequeña cosa: invertir unos pocos miles de euros en comprar la parcela en la que se ubicaba todo eso. 

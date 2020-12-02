@@ -8,6 +8,8 @@ categories: []
 asociacion: []
 date: 2013-03-30 07:55:57
 lastmod:
+authors: 
+  - korova
 ---
 
 La novedad viene por el cambio de ubicación que a partir de ahora y para sucesivos cafés se celebrarán en la nueva sede de la Asociación Plataforma Korova Criptana situada en la C/ Ascensión, 16 de Campo de Criptana: [https://plus.google.com/111504560410304660826/about?gl=es&hl=es](https://plus.google.com/111504560410304660826/about?gl=es&hl=es)

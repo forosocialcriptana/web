@@ -8,6 +8,8 @@ categories: []
 asociacion: []
 date: 2013-07-04 18:39:59
 lastmod:
+authors: 
+  - korova
 ---
 
 Tras el éxito le primera edición de "Las Tardes de Korova", la Plataforma Korova vuelve a hacer una suculena propuesta socio cultural para este verano. Las actividades van destinadas a ofrecer alternativas culturales y de ocio a jóvenes y mayores de nuestro pueblo ante las escasas posililidades de participación en las actividades organizadas por el ayuntamiento. Propuestas de todo tipo, saludables, gratuitas y divertidas: ciclocine, proyecciones, fotocrítica, filmosofía, guateque y talleres de todo tipo.

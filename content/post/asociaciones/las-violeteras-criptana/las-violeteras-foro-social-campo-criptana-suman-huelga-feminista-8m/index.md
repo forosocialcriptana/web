@@ -8,6 +8,8 @@ categories: []
 asociacion: []
 date: 2018-03-02 14:20:14
 lastmod:
+authors: 
+  - violeteras
 ---
 
 El Foro Social de campo de Criptana se suma a la convocatoria de huelga feminista del próximo 8 de Marzo, coincidiendo con el día de la mujer trabajadora, y en reivindicación de la igualdad de derechos para mujeres y hombres. En nuestro pueblo la convocatoria ha sido lanzada por el grupo fenimista local Las Violetera de Criptana, quienes explicarán en una charla este viernes 2 de marzo a las 20:00 en la casa de las asociaciones los motivos para ir a la huelga así como las actividades previstas en Criptana para ese día. 

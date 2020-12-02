@@ -7,6 +7,8 @@ categories: []
 asociacion: []
 date: 2008-05-05 12:12:00
 lastmod:
+authors: 
+  - salicor
 ---
 
 Desde hace varias semanas llevamos recogiendo comentarios de vecinos de nuestra población  en el sentido de que, al parecer, al llevar al vertedero municipal ciertos voluminosos y pequeñas cantidades de escombros procedentes de actuaciones no profesionales en el hogar, se les cobra una tasa específica y directa en el momento de efectuar la entrega por un importe mínimo de un euro. 

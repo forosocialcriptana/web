@@ -7,6 +7,8 @@ categories: []
 asociacion: []
 date: 2008-03-01 18:34:00
 lastmod:
+authors: 
+  - salicor
 ---
 
 El grupo ecologistas Salicor ha presentado al Ayuntamiento de Campo de Criptana, así como a los principales grupos constructores locales un Plan para la Gestión de los Residuos de Construcción y Demolición. 
