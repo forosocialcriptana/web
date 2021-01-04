@@ -34,7 +34,6 @@ image:
 projects: [periodico]
 publishDate: '2017-01-01'
 publication_types:
-- 9
 abstract: '**Sumario**<br>
 - Gobernar en coalición con la sociedad.<br>
 - Presupuestos municipales 2017: Otros presupuestos NO-participativos.<br>

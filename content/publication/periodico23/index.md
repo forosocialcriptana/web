@@ -35,7 +35,6 @@ image:
 projects: [periodico]
 publishDate: '2018-06-01'
 publication_types:
-- 9
 abstract: '**Sumario**<br>
 - Los presupuestos municipales a debate.<br>
 - A propósito de la sequía: Otras formas de «perdidos en la no traducción».<br>

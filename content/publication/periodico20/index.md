@@ -33,7 +33,6 @@ image:
 projects: [periodico]
 publishDate: '2020-09-16T21:26:02.134179Z'
 publication_types:
-- 2
 abstract: '**Sumario** 
 - Una "Nueva Política" en construcción.
 - El asalto del TTIP a la soberanía local.

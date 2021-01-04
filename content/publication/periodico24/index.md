@@ -32,7 +32,6 @@ image:
 projects: [periodico]
 publishDate: '2019-02-01'
 publication_types:
-- 9
 abstract: '**Sumario**<br>
 - Un reglamento de participación sin participación.<br>
 - La fecha del 8 de marzo es nuestra, internacional y reivindicativa.<br> 

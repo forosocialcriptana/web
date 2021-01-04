@@ -35,7 +35,6 @@ image:
 projects: [periodico]
 publishDate: '2017-06-01'
 publication_types:
-- 9
 abstract: '**Sumario**<br>
 - A mitad de la legislatura.<br>
 - Salicor: La nueva amenaza de las Tierras Raras.<br>

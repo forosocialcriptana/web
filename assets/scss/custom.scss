@@ -1,0 +1,44 @@
+#navbar-main .main-menu-item ul li .nav-link {
+  font-weight: bold;
+  font-size: 140%;
+}
+
+#navbar-main .main-menu-item ul li .nav-link:hover {
+  color: $sta-primary;
+  transition: color 0.3s ease;
+}
+
+// Buttons
+.btn-primary {
+  color: $sta-menu-text;
+  background-color: $sta-menu-primary;
+  border-color: $sta-menu-primary;
+}
+
+// Título
+.hero-title {
+  color: $sta-menu-primary;
+}
+
+.hero-lead{
+  color: $sta-primary;
+}
+
+// Dark mode
+.dark .navbar{
+  background: $sta-menu-primary;
+}
+
+.dark .hero-title{
+  color: $sta-menu-primary;
+}
+
+.dark .hero-lead{
+  color: $sta-primary;
+}
+
+.dark .btn-primary {
+  color: $sta-menu-text;
+  background-color: $sta-menu-primary;
+  border-color: $sta-menu-primary;
+}
