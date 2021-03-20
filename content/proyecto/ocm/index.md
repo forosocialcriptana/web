@@ -8,6 +8,7 @@ tags: [Mapa]
 categories: 
 date: 2016-09-01
 type: project
+draft: true 
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -51,4 +52,4 @@ El Observatorio Ciudadano Municipal de Campo de Criptana surge desde el Foro Soc
 
 Pero para que el control sea efectivo, no bastan herramientas como esta, sino que se necesita sobre todo gente comprometida con su comunidad, dispuesta a dedicar parte de su tiempo en esta labor. Por ello animamos a participar en este proyecto dándote de alta como usuario y socio del proyecto.
 
-¡Tu parcicipación, mejora nuestra democracia!
+¡Tu participación, mejora nuestra democracia!
