@@ -15,6 +15,8 @@ Como en años anteriores el Foro Social de Campo de Criptana ha organizado un ac
 
 Desde el Foro Social seguimos trabajando por hacer los presupuestos municipales accesibles a toda la población, ya que no se puede decidir sobre algo que se desconoce, y los presupuestos son el instrumento más importante para desarrollar las políticas públicas. Por ello desde hace años venimos presentando los presupuesto de manera visual en la [web de los presupuestos municipales](https://forosocialcriptana.com/presupuestos), donde no solo se puede entender el reparto del presupuesto, tanto de ingresos como de gastos, sino también su evolución con respecto a años anteriores.
 
+{{< youtube SrB5_av3GkQ >}}
+
 ## Análisis del presupuesto municipal 2022
 
 El volumen total del presupuesto para el ejercicio 2022 es de 11.735.500 €, lo que supone un 3.8% más que el ejercicio anterior y confirma la tendencia creciente del presupuesto desde 2015. Esto supone 887 € por persona censada en el municipio.
