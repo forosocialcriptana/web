@@ -18,6 +18,8 @@ header:
   image: ""
 ---
 
+<!-- LTeX: language=es-ES -->
+
 Bienvenido al observatorio de los presupuestos municipales 
 
 En los siguientes enlaces encontrarás información sobre los presupuestos municipales de Campo de Criptana desde el año 2010 en adelante. 

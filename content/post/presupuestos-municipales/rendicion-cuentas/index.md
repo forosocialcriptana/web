@@ -2,7 +2,7 @@
 title: '¿Rinde cuentas nuestro ayuntamiento?'
 subtitle: ''
 summary: 'La plataforma CIVIO presenta una herramienta interactiva para controlar los ayuntamientos que cumplen con la ley de rendición de cuentas públicas.'
-tags: [Mercadillo Agroecológico]
+tags: [transparencia, presupuestos]
 categories: []
 asociacion: []
 date: 2022-07-03
@@ -10,6 +10,8 @@ lastmod:
 authors: 
 lang: es
 ---
+
+<!-- LTeX: language=es-ES -->
 
 Los ayuntamientos están obligados por la Ley Reguladora de las Haciendas Locales a presentar la liquidación de los presupuestos de cada ejercicio así como la cuenta general ante el [Tribunal de Cuentas](https://www.tcu.es/tribunal-de-cuentas/es/)  para su fiscalización. Sin embargo, no todos los ayuntamientos presentan regularmente sus cuentas ni lo hacen en los plazos que marca la ley. Según el portal de [Rendición de Cuentas](https://www.rendiciondecuentas.es/es/), solo el 70.4% de los ayuntamientos presentaron la liquidación del presupuesto en plazo el ejercicio 2020 y 59.52% presentaron la Cuenta General en plazo. Están quienes cumplen los plazos, quienes se retrasan unas semanas y quienes tardan años en presentar sus cuentas.
 
