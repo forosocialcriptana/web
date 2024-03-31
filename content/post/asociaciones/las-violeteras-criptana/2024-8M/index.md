@@ -8,8 +8,8 @@ asociacion: [violeteras]
 date: 2024-03-07
 lastmod:
 project: 
-# authors: 
-#   - violeteras
+authors: 
+  - violeteras
 lang: es
 ---
 
