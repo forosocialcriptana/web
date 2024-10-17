@@ -2,7 +2,7 @@
 title: Día de la mujer rural 2024
 subtitle: SON ELLAS, TODAS ELLAS, las que nos legaron el saber... 💜🧓🏼👩🏻👩🏾‍🦱👧🏼
 summary: "Una amenaza se cierne sobre nuestro pueblo... El gobierno de Castilla-La Mancha ha declarado como prioritario el proyecto de una planta de biometano en nuestro término muncipal."
-tags: [Feminismo, Día Mujer Rural]
+tags: [Feminismo]
 categories: [Mujer]
 asociacion: [violeteras]
 date: 2024-10-15
