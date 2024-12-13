@@ -1,12 +1,12 @@
 ---
-title: "Plantas de Biometano: Mitos y riesgos"
+title: "Charlas informativas sobre Plantas de Biometano"
 summary: 'Los próximos días 8 y 14 de noviembre, se realizarán dos charlas informativas sobre las plantas de biometano con el objetivo de información a la población de los riesgos que entrañan este tipo de instalaciones y a quién benefician.'
 tags: [Energía, Residuos, Macrogranjas]
 categories: [Medio ambiente]
 asociacion: [Salicor]
 date: 2024-11-06
 lastmod:
-project:
+project: Biometano
 authors: 
   - salicor
 lang: es
@@ -21,5 +21,7 @@ La primera de ellas tendrá lugar el próximo viernes 8 de noviembre a las 20:00
 La segunda charla se celebrará el jueves 14 de noviembre a las 20:00 horas en el mismo lugar y contará con la participación de Toni Jorge, un experto de Ecologistas en Acción y miembro de la Plataforma Ciudadana contra las Macrogranjas, que nos hablará de los riesgos que entrañan este tipo de instalaciones y a quién benefician.
 
 ![Cartel de la segunda charla informativa sobre las plantas de biometano](img/charla-planta-biometano-2.png)
+
+{{< youtube gDUDkOpyUF0 >}}
 
 Desde el Foro Social de Campo de Criptana queremos invitar a toda la población a asistir a estas charlas informativas para que puedan conocer de primera mano los riesgos que entrañan las plantas de biometano y puedan resolver todas sus dudas al respecto. ¡Os esperamos!
